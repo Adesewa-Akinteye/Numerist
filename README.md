@@ -29,17 +29,17 @@ The average time spent by users is 5 hours 30 minutes while the maximum time spe
 Generally, the ideal app crash rate is less than 1% per user, less than 0.1% per session, and less than 0.01% per screen view. At least 1.09% of daily active users experience a user-perceived crash, across all device models. The average crash rate for mobile applications should have a very low range of 1–2% which indicates the 98% of the remaining users to be crash-free. The crash rate per active user (0.06%) is however more than the minimal from the analysis.
 
 
-![Screenshot (24)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/ecec1cbd-8edd-46a1-98e9-5116dee11ce3)
+ ![Screenshot (29)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/8b37a611-96d2-4932-8e73-96fd9e98e060)
 
 Only 38.9% of post made are seen which could be as a result of too many post at a time by user, a shadowbanned account, a built algorithm that prevents spamming or posts not fit to algorithm.
 
 
-![Screenshot (25)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/2cc4df95-71a8-4ed1-867c-69a8fe6e678e)
+ ![Screenshot (30)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/c928d748-af37-41c6-b11a-2e0b87462603)
 
 77% of ribbon total sign up uses the app actively, 23% probably find it hard to see an enticing feature on the app or see no reason to stay active and spend more time using the app.
 
  
-![Screenshot (27)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/f2face9d-2748-46e4-b34c-cdf1b320c69d)
+ ![Screenshot (31)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/672aa2e8-1720-466d-8fa2-b8c76fb87cc7)
 
 Users tend to post more on thursdays, more likes and retweets on saturdays. After work and on the weekend are great times to post because people are relaxing and browsing social networks at their own pace. People have more leisure time and are more willing to give time to mobile more during weekends.
 
