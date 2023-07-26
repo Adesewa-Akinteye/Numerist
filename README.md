@@ -64,5 +64,5 @@ reduced to minimal.
 - An algorithm can be built to give users a pop message on best time to post according to their region or time zone, whenever they want to post for more engagement.
 
 ## Risk of Delay
-There is chances of more users not installing nor signing up with the app as the rate gradually reduces over the month, the earlier to take action, the better.
+There are chances of more users not installing nor signing up with the app as the rate gradually reduces over the month, the earlier to take action, the better.
 
