@@ -51,11 +51,11 @@ Recommendations to further improve the app are listed below.
 - ## Recommendations
 1. **Users Feedbacks:** We can generate a short questionaire or feedback dropdown (not rate as this will only give quantitative insight and not qualitative) that pops while a user is about to uninstall and installs the app, this will give possible reasons to **why** users uninstall and more insights on what we can improve on.
 2. **Sign_up Process and Privacy concern:** A lengthy sign-up process is a big turnoff for most users. For the app to surpass the installation stage and later engage the user the app should have a quick and easy sign up process. To simplify things further apps can also allow a log in using Instantsnaps. Privacy is a major concern when installing new apps. Apps that ask for way to many permissions may get discarded instantly, Should be limited if need be.
-3. **Irrelevant Notifications and Battery Draining:** Push notifications popping up too frequently, there should be a limit to this and users approval on getting notified, The batter usage of app on device should be
+3. **Irrelevant Notifications and Battery Draining:** Push notifications popping up too frequently, there should be a limit to this and users approval on getting notified, The battery usage of app on device should be
 reduced to minimal.
-4. **Free Memory and Data Usage**: Ribbon memory  and Data usage should be as low as possible to avoid users from finding it not worth the memory its holding and data consumption.
+4. **Free Memory and Data Usage**: Ribbon memory  and Data usage should be as low as possible to avoid users from finding it not worth the memory it's holding and data consumption.
 5. **Crash Rate:** The tech team should work on possible solutions to fix and reduce the rate of crashes and vitals can be used to track app crash rate.
-6. **Time on app:** We can get to review the features on the app people spend more time on and make it more enticing to increase the hours spent overall also, giving more or individual interest on feed.
+6. **Time on app:** We can get to review the features on the app people spend more time on and make it more enticing to increase the hours spent overall also, giving more of individual interest on feed.
 7. **Engagement, Referral and Rewards:**
 - We can generate points or ranking system to reward users based on their post and engagement.
 - We can also give point for daily activeness on the site which can be redeemed at a specified point.
