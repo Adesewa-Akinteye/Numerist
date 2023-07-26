@@ -39,7 +39,7 @@ Only 38.9% of post made are seen which could be as a result of too many post at 
 77% of ribbon total sign up uses the app actively, 23% probably find it hard to see an enticing feature on the app or see no reason to stay active and spend more time using the app.
 
  
- ![Screenshot (31)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/672aa2e8-1720-466d-8fa2-b8c76fb87cc7)
+ ![Screenshot (32)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/db901072-1dfd-46b1-afeb-9410b731afae)
 
 Users tend to post more on thursdays, more likes and retweets on saturdays. After work and on the weekend are great times to post because people are relaxing and browsing social networks at their own pace. People have more leisure time and are more willing to give time to mobile more during weekends.
 
