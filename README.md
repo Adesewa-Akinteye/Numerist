@@ -22,7 +22,7 @@ This could be as a result of not having enticing features in the app, users not 
 
 ![Screenshot (22)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/0a373132-4bf7-4997-a4e1-17d1be361588)
 
-The average time spent by users is 5 hours 30 minuntes white the maximum time spent is close to 9 hours, this brings us to the fact that there are enticing features on the app but only enticing to fewer group of people.
+The average time spent by users is 5 hours 30 minutes while the maximum time spent is close to 9 hours, this brings us to the fact that there are enticing features on the app but only enticing to fewer group of people.
 
 ![Screenshot (23)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/b40662fb-7b6a-45bc-9aea-55f5339f5741)
 
