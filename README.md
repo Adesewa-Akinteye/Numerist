@@ -4,48 +4,58 @@ The dataset was analyzed using Microsoft PowerBi
 ## Table of Content
 - [Problem Statement](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#problem-statement-1)
 - [Chart Analysis Insights](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#chart-analysis)
+- [Conclusion](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#conclusion)
+- [Risk of Delay](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#risk-of-delay)
 - [How can we leverage the success of the app launch to further enhance our products and services?]( https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#how-can-we-leverage-the-success-of-the-app-launch-to-further-enhance-our-products-and-services)
 - [Recommendations](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#recommendations)
-- [Risk of Delay](https://github.com/Adesewa-Akinteye/Numerist/edit/main/README.md#risk-of-delay)
+
 
 ## Problem Statement
 Analyze the provided data set to determine the success of the product launch for SocialBlaze's new app, Ribbon. SocialBlaze also have another app called InstantSnaps - Users accounts on InstantSnaps will be linked to Ribbon. Your analysis will focus on key metrics and insights to present to the CEO and Founder.
 
 
 ## Chart Analysis Insights
- ![Screenshot (20)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/ffb7ebd1-18a0-4844-9c24-15015312a4bf)
- With a total of 3.43bn ribon app installs, 99.9% Signed up which is fair enough. However, From the chat below;
-![Screenshot (21)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/e01bdb71-befc-4541-9e84-115a22a705b4)
-872K uninstalled the app, why?. Also, the rate at which users sign up and install app drastically reduced from launch.
+ ![Screenshot (47)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/9f4c44c9-7699-4627-af5a-92b1eca3dd6e)
+
+  We've a total of 3.43bn ribon app installs however, From the chat below;
+ ![Screenshot (48)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/4621ac25-d0f3-4ee9-a336-7286cf0ecff1)
+
+ 872K uninstalled the app, why?. Also, the rate at which users sign up and install app drastically reduced from launch.
 This could be as a result of not having enticing features in the app, users not seeing the need to keep using the app, when a user finds it's not worth the memory its holding, Tedious Sign-Up Process,Too Many Permissions, Irrelevant Notifications, battery draining and many more.
 
+![Screenshot (49)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/c1839776-c2e9-47ef-b7ce-e6dce8266731)
 
-![Screenshot (22)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/0a373132-4bf7-4997-a4e1-17d1be361588)
+ 
+The average time spent by users is 5 hours 30 minutes, this brings us to the fact that there are enticing features on the app but only enticing enought to some.
 
-The average time spent by users is 5 hours 30 minutes while the maximum time spent is close to 9 hours, this brings us to the fact that there are enticing features on the app but only enticing to fewer group of people.
+ ![Screenshot (52)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/84b04aea-3364-4915-b1b4-ff01ae055031)
 
-![Screenshot (23)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/b40662fb-7b6a-45bc-9aea-55f5339f5741)
-
-Generally, the ideal app crash rate is less than 1% per user, less than 0.1% per session, and less than 0.01% per screen view. At least 1.09% of daily active users experience a user-perceived crash, across all device models. The average crash rate for mobile applications should have a very low range of 1–2% which indicates the 98% of the remaining users to be crash-free. The crash rate per active user (0.06%) is however more than the minimal from the analysis.
+Generally, the ideal app crash rate is less than 1% per user, a minimum of 1.09% of daily active users experience a user-perceived crash, across all device models. The average crash rate for mobile applications should have a very low range of 1–2%  with 98% crash free users. The crash rate per active user 6% (0.06%) is however more than the minimal from the analysis.
 
 
- ![Screenshot (29)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/8b37a611-96d2-4932-8e73-96fd9e98e060)
+ ![Screenshot (50)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/97121d79-2c49-45e2-b6b2-f54c038a912f)
 
 Only 38.9% of post made are seen which could be as a result of too many post at a time by user, a shadowbanned account, a built algorithm that prevents spamming or posts not fit to algorithm.
 
 
- ![Screenshot (30)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/c928d748-af37-41c6-b11a-2e0b87462603)
+ ![Screenshot (51)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/fad22a57-5f51-446c-9f34-d1ff69875e59)
 
 77% of ribbon total sign up uses the app actively, 23% probably find it hard to see an enticing feature on the app or see no reason to stay active and spend more time using the app.
 
  
- ![Screenshot (32)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/db901072-1dfd-46b1-afeb-9410b731afae)
+ ![Screenshot (54)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/4c1830b2-fb2a-4b90-a6a3-9904cc11453b)
 
 Users tend to post more on thursdays, more likes and retweets on saturdays. After work and on the weekend are great times to post because people are relaxing and browsing social networks at their own pace. People have more leisure time and are more willing to give time to mobile more during weekends.
 
 
+##  Conclusion
+The overall analysis shows that Ribbon app has the potential of being more successful, The total engagement is fair enough compared to the installs and sign-ups, The decrease in sign up since launch contributed to the engagement, Having more increase and features, building up the sign-up process and installs will generally increase active users resulting to increment in engagement overall.
+
+## Risk of Delay
+There are chances of more users not installing nor signing up with the app as the rate gradually reduces over the month, the earlier to take action, the better.
+
 ## How can we leverage the success of the app launch to further enhance our products and services?
-Recommendations to further improve the app are listed below.
+Recommendations to further enhance the app are listed below.
 - - -
 
 - ## Recommendations
@@ -63,6 +73,5 @@ reduced to minimal.
 - An in-app ads can be created on instantsnaps for users to take a look at the just launched ribbon app, use and get points which can be redeemable at a point, with the high rate of audience on instantsnap, the surge for install and sign up will be high if this is done. However more enticing features should be worked on before proceeding with this so users see a reason to stay active.
 - An algorithm can be built to give users a pop message on best time to post according to their region or time zone, whenever they want to post for more engagement.
 
-## Risk of Delay
-There are chances of more users not installing nor signing up with the app as the rate gradually reduces over the month, the earlier to take action, the better.
+
 
