@@ -30,7 +30,7 @@ The average time spent by users is 5 hours 30 minutes, this brings us to the fac
 
  ![Screenshot (52)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/84b04aea-3364-4915-b1b4-ff01ae055031)
 
-Generally, the ideal app crash rate is less than 1% per user, a minimum of 1.09% of daily active users experience a user-perceived crash, across all device models. The average crash rate for mobile applications should have a very low range of 1–2%  with 98% crash free users. The crash rate per active user 6% (0.06%) is however more than the minimal from the analysis.
+Generally, the ideal app crash rate is less than 1% per user, a minimum of 1.09% of daily active users experience a user-perceived crash, across all device models. The average crash rate for mobile applications should have a very low range of 1–2%  with 98% crash free users. The crash rate per active user 6% (0.06) is however more than the minimal from the analysis.
 
 
  ![Screenshot (50)](https://github.com/Adesewa-Akinteye/Numerist/assets/105454543/97121d79-2c49-45e2-b6b2-f54c038a912f)
